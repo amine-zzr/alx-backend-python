@@ -3,10 +3,10 @@
 Zooms into a list by repeating each element `factor` times.
 """
 
-from typing import List, Sequence
+from typing import List, Tuple
 
 
-def zoom_array(lst: Sequence, factor: int = 2) -> List:
+def zoom_array(lst: Tuple, factor: int = 2) -> List:
     """
     Zooms into a list by repeating each element `factor` times.
 
