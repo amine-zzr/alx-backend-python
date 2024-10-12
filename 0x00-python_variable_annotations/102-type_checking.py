@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+Zooms into a list by repeating each element `factor` times.
+"""
 
 from typing import List, Sequence
 
